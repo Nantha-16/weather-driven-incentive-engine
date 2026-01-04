@@ -1,0 +1,3 @@
+city,latitude,longitude,timezone,min_precip_mm,max_precip_mm,block_threshold,opt_type,enabled,email,default_cohort
+Toronto,43.6532,-79.3832,America/Toronto,0.3,3,0.5,opt-in,TRUE,prachi.gupta@nineleaps.com,0.5
+Montreal,45.5017,-73.5673,America/Toronto,0.4,2.5,0.6,opt-out,TRUE,prachi.gupta@nineleaps.com,0
